@@ -1,3 +1,7 @@
+Fork of Opentitan for integration with Serengeti
+
+In use by Freya (Hons. student)
+
 # OpenTitan
 
 ![OpenTitan logo](./doc/opentitan-logo.png)
